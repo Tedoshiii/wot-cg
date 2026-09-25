@@ -6,61 +6,61 @@ WEBVTT
 00:00:12.019 --> 00:00:17.869 
 contributors across multiple groups. We'd like to share a few of the highlights with you.
 
-00:00:17.869 --> 00:00:24.661 
+00:00:17.869 --> 00:00:26.383 
  Thanks to the members of the working group, new features have arrived in the Thing Description standard.
 
-00:00:24.661 --> 00:00:34.683 
- The Thing Description gained Common Definitions , which let you declare 
+00:00:26.383 --> 00:00:36.986 
+ The Thing Description gained Common Definitions, which let you declare 
 shared protocol details once, instead of repeating them
 
-00:00:34.683 --> 00:00:43.139 
+00:00:36.986 --> 00:00:45.863 
  There is now also a binding registry, which opens the door for standardization work outside of W3C to contribute
 
-00:00:43.139 --> 00:00:52.015 
+00:00:45.863 --> 00:00:54.772 
 - OPC UA Binding from OPC Foundation is one example of such a collaboration. Alongside it, new protocol bindings are
 
-00:00:52.015 --> 00:00:55.222 
+00:00:54.772 --> 00:00:57.971 
 available and already in use in real-world systems.
 
-00:00:55.222 --> 00:01:02.501 
+00:00:57.971 --> 00:01:05.908 
  A new charter is in place as well, starting September 2026 and setting the direction for the years ahead
 
-00:01:02.501 --> 00:01:08.522 
+00:01:05.908 --> 00:01:12.009 
 - so if you're interested in standardization for the Internet of Things, this is a good moment to get involved.
 
-00:01:08.522 --> 00:01:23.425 
+00:01:12.009 --> 00:01:23.413 
  The community group held six meetups and expanded their tutorial library, where you can get hands-on with the Web
 
-00:01:23.425 --> 00:01:32.932 
+00:01:23.413 --> 00:01:33.866 
 of Things yourself.
 
-00:01:32.932 --> 00:01:39.547 
+00:01:33.866 --> 00:01:42.053 
 This year, the Web Thing Protocol Community Group released the first specification of the Web Thing Protocol.
 
-00:01:39.547 --> 00:01:46.934 
+00:01:42.053 --> 00:01:50.703 
 It is the protocol built natively on the Thing Description model to work on top of WebSockets. Implementations are already
 
-00:01:46.934 --> 00:01:54.036 
+00:01:50.703 --> 00:01:57.876 
 underway, and it's heading toward the Working Group for standardization.
 
-00:01:54.036 --> 00:01:59.077 
+00:01:57.876 --> 00:02:03.972 
  The Web of Things is open source at heart, and it grows with every new contributor.
 
-00:01:59.077 --> 00:02:06.323 
+00:02:03.972 --> 00:02:11.218 
 If you're interested in getting involved, a great place to start is the newly reworked website, which brings together all
 
-00:02:06.323 --> 00:02:08.526 
+00:02:11.218 --> 00:02:13.420 
 relevant information in one place.
 
-00:02:08.526 --> 00:02:11.577 
+00:02:13.420 --> 00:02:18.203 
  From there you can also reach each group individually.
 
-00:02:11.577 --> 00:02:21.879 
+00:02:18.203 --> 00:02:24.855 
  If you'd rather meet the groups face to face, we'll be at TPAC in Dublin, and in January at
 
-00:02:21.879 --> 00:02:29.786 
+00:02:24.855 --> 00:02:32.558 
 the WoT Open Day and Hands-on, in Shenzhen, China - two chances to experience the technology in action yourself.
 
-00:02:29.786 --> 00:02:35.819 
+00:02:32.558 --> 00:02:38.591 
 You can click the links in the description to participate, or connect with the community on GitHub and Discord.
 
