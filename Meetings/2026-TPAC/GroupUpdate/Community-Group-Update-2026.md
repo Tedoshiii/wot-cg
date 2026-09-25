@@ -1,3 +1,5 @@
+# Video Script
+
 ## Introduction
 
 This past year, the Web of Things at W3C took meaningful steps forward, thanks to a diverse community of contributors across multiple groups. We'd like to share a few of the highlights with you.
@@ -36,6 +38,8 @@ If you'd rather meet the groups face to face, we'll be at TPAC in Dublin, and in
 You can click the links in the description to participate, or connect with the community on GitHub and Discord.
 
 - Website: https://www.w3.org/WoT/
+- GitHub: https://github.com/w3c/wot-thing-description/
+- Discord: https://discord.gg/RJNYJsEgnb
 - Working Group: https://www.w3.org/groups/wg/wot/
 - Community Group: https://www.w3.org/groups/cg/wot/
 - Web Thing Protocol Community Group: https://www.w3.org/groups/cg/web-thing-protocol/

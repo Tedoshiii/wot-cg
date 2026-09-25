@@ -10,7 +10,7 @@ This past year, the Web of Things at W3C took significant steps forward thanks t
 
 - Website: https://www.w3.org/WoT/
 - GitHub: https://github.com/w3c/wot-thing-description/
-- Discord: Please create official invite link.
+- Discord: https://discord.gg/RJNYJsEgnb
 - Working Group: https://www.w3.org/groups/wg/wot/
 - Community Group: https://www.w3.org/groups/cg/wot/
 - Web Thing Protocol Community Group: https://www.w3.org/groups/cg/web-thing-protocol/
