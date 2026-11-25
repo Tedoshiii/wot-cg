@@ -1,7 +1,7 @@
 # Industry: companies that use WoT. Field reference: Adopters/README.md
 
 - name: Siemens
-  products:
+  solutions:
     - title: sayWoT!
     - title: Building X
     - title: BACnet and building onboarding
@@ -21,7 +21,7 @@
       link: https://press.siemens.com/global/en/pressrelease/siemens-enters-collaboration-microsoft-enhance-iot-interoperability-buildings
 
 - name: Microsoft
-  products:
+  solutions:
     - title: WoT support in Azure IoT Operations
   contributions:
     - title: UA Edge Translator
@@ -30,6 +30,8 @@
   sources:
     - label: Microsoft blog, Apr 2026
       link: https://techcommunity.microsoft.com/blog/iotblog/w3c-web-of-things-wot-support-in-azure-iot-operations/4511215
+    - label: "Microsoft blog: W3C Web of Things is now fully integrated in Azure IoT Operations"
+      link: https://techcommunity.microsoft.com/blog/iotblog/w3c-web-of-things-is-now-fully-integrated-in-azure-iot-operations/4575276
     - label: Siemens press release on IoT interoperability with Microsoft
       link: https://press.siemens.com/global/en/pressrelease/siemens-enters-collaboration-microsoft-enhance-iot-interoperability-buildings
     - label: TPAC 2024 WoT adoption demos
@@ -45,7 +47,7 @@
       link: https://w3c.github.io/wot-thing-description/testing/report11.html
 
 - name: Deutsche Telekom
-  products:
+  solutions:
     - title: MagentaZuhause smart home app
     - title: WoT-Matter bridge
   contributions:
@@ -67,7 +69,7 @@
       link: https://w3c.github.io/wot-discovery/testing/report.html
 
 - name: SICK
-  products:
+  solutions:
     - title: Thing Description directory at the edge in SICK LiveConnect
     - title: Onboarding to Azure
   meetups: [5]
@@ -76,7 +78,7 @@
       link: https://www.w3.org/2024/09/TPAC/demo-wot-summary.html
 
 - name: Schaeffler
-  products:
+  solutions:
     - title: WoT for digital twins and attached sensors
   meetups: [8]
   sources:
@@ -84,7 +86,7 @@
       link: https://www.w3.org/2024/09/TPAC/demo-wot-summary.html
 
 - name: Krellian
-  products:
+  solutions:
     - title: WebThings Gateway and Krellian Cloud
       description: Thing Description 1.1 consumer, Thing Description directory
   meetups: [14]
@@ -93,23 +95,23 @@
       link: https://www.w3.org/2024/09/TPAC/demo-wot-summary.html
 
 - name: Prosys OPC
-  products:
+  solutions:
     - title: Prosys Forge
       description: Onboards devices from Thing Descriptions via OPC UA WoT Connectivity
   meetups: [34]
 
 - name: beyonnex.io
-  products:
+  solutions:
     - title: WoT Thing Models for smart, energy-efficient housing
   meetups: [19]
 
 - name: Netzo
-  products:
+  solutions:
     - title: WoT applications on the serverless edge
   meetups: [3]
 
 - name: Altair
-  products:
+  solutions:
     - title: Altair IoT Studio
       description: Things in AnythingDB are defined based on the Web of Things
   sources:
@@ -117,7 +119,7 @@
       link: https://help.altair.com/altair-iot-studio/topics/anythingdb/thing_intro.htm
 
 - name: Dashjoin
-  products:
+  solutions:
     - title: Generic WoT manager on the Dashjoin low-code platform
   meetups: [23]
   sources:
@@ -131,13 +133,13 @@
   meetups: [11]
 
 - name: Seam
-  products:
+  solutions:
     - title: Unified API for IoT devices
       description: Design inspired by the W3C WoT work
   meetups: [10]
 
 - name: Takenaka
-  products:
+  solutions:
     - title: Data platform for smart buildings
       description: WoT is used to implement data models and APIs
     - title: EQ House digital twin application
@@ -148,11 +150,11 @@
       link: https://www.w3.org/2024/Talks/0419-smartcities-ka/20240419-smartcities.pdf
 
 - name: Bertrandt
-  products:
+  solutions:
     - title: WIP
 
 - name: Müller-BBM
-  products:
+  solutions:
     - title: WIP
 
 - name: archeion

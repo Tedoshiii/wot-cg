@@ -10,7 +10,7 @@ const MEETUPS_DIR = path.join(__dirname, '..', 'Meetups');
 
 // File -> the lists its entries use. An entry needs at least one of them.
 const FILES = {
-  'industry.yaml': ['products', 'contributions'],
+  'industry.yaml': ['solutions', 'contributions'],
   'standard-development-organizations.yaml': ['projects'],
   'open-source.yaml': ['projects'],
   'research.yaml': ['projects'],

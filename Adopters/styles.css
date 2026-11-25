@@ -55,13 +55,13 @@ a { color: var(--link); }
 /* Headline */
 
 .hero { margin-bottom: 24px; }
-.hero-total {
-  font-size: 56px;
+.hero-title {
+  margin: 0;
+  font-size: 40px;
   font-weight: 700;
-  line-height: 1;
+  line-height: 1.1;
   letter-spacing: -.02em;
   color: var(--c-industry);
-  font-variant-numeric: tabular-nums;
 }
 .hero-label { margin: 8px 0 0; font-size: 18px; }
 
@@ -442,7 +442,7 @@ a { color: var(--link); }
 /* Phone view */
 
 @media (max-width: 760px) {
-  .hero-total { font-size: 44px; }
+  .hero-title { font-size: 30px; }
   .hero-label { font-size: 16px; }
   .panel-head { padding-block: 8px; }
   .panel-title { white-space: normal; line-height: 1.35; }

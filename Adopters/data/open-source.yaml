@@ -137,14 +137,6 @@
     - label: W3C WoT developer tools
       link: https://www.w3.org/WoT/developers/tools
 
-- name: RIOT WoT
-  projects:
-    - title: WoT modules for RIOT OS
-      description: CoAP, DTLS
-  sources:
-    - label: Discovery implementation report
-      link: https://w3c.github.io/wot-discovery/testing/report.html
-
 - name: thingctx
   projects:
     - title: Drive systems from Thing Descriptions

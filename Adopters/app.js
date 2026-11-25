@@ -209,7 +209,7 @@ function openPopup(adopter, group) {
   byId('detail-name').textContent = adopter.name;
   byId('detail-type').textContent = GROUP_LABELS[group];
 
-  fillPopupList('detail-products', (adopter.products ?? []).map(createProject));
+  fillPopupList('detail-solutions', (adopter.solutions ?? []).map(createProject));
   fillPopupList('detail-contributions', (adopter.contributions ?? []).map(createProject));
   fillPopupList('detail-projects', (adopter.projects ?? []).map(createProject));
   fillPopupList('detail-meetups', (adopter.meetups ?? []).map(createMeetup));
@@ -272,7 +272,6 @@ async function start() {
   groups.forEach((group, i) => fillSection(group, adopters[i]));
   fillBindings(bindings);
   updateCounts();
-  byId('total').textContent = adopters.flat().length;
 
   setUpSectionHeaders();
   setUpTooltips();

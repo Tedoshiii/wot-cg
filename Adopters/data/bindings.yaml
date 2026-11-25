@@ -22,3 +22,5 @@
   link: https://w3c.github.io/wot-binding-templates/bindings/protocols/lorawan/index.html
 - name: OPC UA
   link: https://reference.opcfoundation.org/specs/OPC-10101
+- name: OPC Classic
+  link: https://github.com/w3c/wot-binding-templates#publications

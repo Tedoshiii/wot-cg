@@ -19,7 +19,7 @@ Adopters can ask to be listed with the [adopter issue form](https://github.com/w
 
 ```yaml
 - name: Siemens                       # required
-  products:                           # industry.yaml: products and/or contributions
+  solutions:                          # industry.yaml: solutions and/or contributions
     - title: Building X               # required
       # description: ...              # optional, shown under the title
   contributions:
@@ -31,7 +31,7 @@ Adopters can ask to be listed with the [adopter issue form](https://github.com/w
       link: https://w3c.github.io/wot-thing-description/testing/report11.html
 ```
 
-In `industry.yaml`, `contributions` is work given to the WoT ecosystem: open-source code, specifications, test implementations for the W3C reports and publicly funded research projects. Everything else the company offers or runs (products, services, platforms, product features, own deployments) goes under `products`; when in doubt, use `products`. Entries in the other files use a single `projects` list instead. Add `meetups`, `sources` or both as evidence where available. A trailing acronym in the name is used as the tile label, e.g. `Industrial Digital Twin Association (IDTA)` shows as `IDTA`.
+In `industry.yaml`, `contributions` is work given to the WoT ecosystem: open-source code, specifications, test implementations for the W3C reports and publicly funded research projects. Everything else the company offers or runs (products, services, platforms, product features, own deployments) goes under `solutions`; when in doubt, use `solutions`. Entries in the other files use a single `projects` list instead. Add `meetups`, `sources` or both as evidence where available. A trailing acronym in the name is used as the tile label, e.g. `Industrial Digital Twin Association (IDTA)` shows as `IDTA`.
 
 Meetup titles, dates and links are read from `Meetups/<nn>/metadata.yaml` on `main`, so new meetups need no extra work here.
 
